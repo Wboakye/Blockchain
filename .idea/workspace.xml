@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cf6b11c4-6fbf-4e4f-80f5-55c7eeeb99f0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1X2Qnwa1QvoT0MoWv2iGM0a2t6v" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/blockchain/templates" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/blockchain/templates" />
+      <recent name="$PROJECT_DIR$/blockchain/static" />
+      <recent name="$PROJECT_DIR$/blockchain_client/static" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.Node1">
+    <configuration name="Alice" type="PythonConfigurationType" factoryName="Python">
+      <module name="BlockchainDemo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/.virtualenvs/BlockchainDemo/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/blockchain_client" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/blockchain_client/blockchain_client.py" />
+      <option name="PARAMETERS" value="-p 8081" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Bob" type="PythonConfigurationType" factoryName="Python">
+      <module name="BlockchainDemo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/.virtualenvs/BlockchainDemo/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/blockchain_client" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/blockchain_client/blockchain_client.py" />
+      <option name="PARAMETERS" value="-p 8082" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Node1" type="PythonConfigurationType" factoryName="Python">
+      <module name="BlockchainDemo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/.virtualenvs/BlockchainDemo/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/blockchain" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/blockchain/blockchain.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.Alice" />
+      <item itemvalue="Python.Bob" />
+      <item itemvalue="Python.Node1" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cf6b11c4-6fbf-4e4f-80f5-55c7eeeb99f0" name="Default Changelist" comment="" />
+      <created>1580241879980</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580241879980</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-2487" y="-840" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1581104930310">
+      <screen x="-2560" y="-1232" width="2560" height="1417" />
+    </state>
+    <state x="-1904" y="-907" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.877/-2560.-1232.2560.1417/-4000.-1486.1440.2537@-2560.-1232.2560.1417" timestamp="1580840695791" />
+    <state x="-2487" y="-840" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.877/-4000.-1486.1440.2537/-2560.-1232.2560.1417@-2560.-1232.2560.1417" timestamp="1581104930310" />
+    <state x="369" y="224" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.877@0.23.1440.877" timestamp="1580261938180" />
+    <state x="-934" y="-790" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1580242114397">
+      <screen x="-2560" y="-1232" width="2560" height="1417" />
+    </state>
+    <state x="-934" y="-790" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.877/-4000.-1486.1440.2537/-2560.-1232.2560.1417@-2560.-1232.2560.1417" timestamp="1580242114397" />
+    <state width="1138" height="114" key="GridCell.Tab.0.bottom" timestamp="1581610618029">
+      <screen x="-2560" y="-1232" width="2560" height="1417" />
+    </state>
+    <state width="1138" height="114" key="GridCell.Tab.0.bottom/0.23.1440.877/-2560.-1232.2560.1417/-4000.-1486.1440.2537@-2560.-1232.2560.1417" timestamp="1581610618029" />
+    <state width="1138" height="114" key="GridCell.Tab.0.bottom/0.23.1440.877/-4000.-1486.1440.2537/-2560.-1232.2560.1417@-2560.-1232.2560.1417" timestamp="1581113981410" />
+    <state width="1138" height="217" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1580261913338" />
+    <state width="1138" height="114" key="GridCell.Tab.0.center" timestamp="1581610618028">
+      <screen x="-2560" y="-1232" width="2560" height="1417" />
+    </state>
+    <state width="1138" height="114" key="GridCell.Tab.0.center/0.23.1440.877/-2560.-1232.2560.1417/-4000.-1486.1440.2537@-2560.-1232.2560.1417" timestamp="1581610618028" />
+    <state width="1138" height="114" key="GridCell.Tab.0.center/0.23.1440.877/-4000.-1486.1440.2537/-2560.-1232.2560.1417@-2560.-1232.2560.1417" timestamp="1581113981408" />
+    <state width="1138" height="217" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1580261913337" />
+    <state width="1138" height="114" key="GridCell.Tab.0.left" timestamp="1581610618028">
+      <screen x="-2560" y="-1232" width="2560" height="1417" />
+    </state>
+    <state width="1138" height="114" key="GridCell.Tab.0.left/0.23.1440.877/-2560.-1232.2560.1417/-4000.-1486.1440.2537@-2560.-1232.2560.1417" timestamp="1581610618028" />
+    <state width="1138" height="114" key="GridCell.Tab.0.left/0.23.1440.877/-4000.-1486.1440.2537/-2560.-1232.2560.1417@-2560.-1232.2560.1417" timestamp="1581113981406" />
+    <state width="1138" height="217" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1580261913337" />
+    <state width="1138" height="114" key="GridCell.Tab.0.right" timestamp="1581610618029">
+      <screen x="-2560" y="-1232" width="2560" height="1417" />
+    </state>
+    <state width="1138" height="114" key="GridCell.Tab.0.right/0.23.1440.877/-2560.-1232.2560.1417/-4000.-1486.1440.2537@-2560.-1232.2560.1417" timestamp="1581610618029" />
+    <state width="1138" height="114" key="GridCell.Tab.0.right/0.23.1440.877/-4000.-1486.1440.2537/-2560.-1232.2560.1417@-2560.-1232.2560.1417" timestamp="1581113981409" />
+    <state width="1138" height="217" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1580261913338" />
+    <state x="-1185" y="-925" key="SettingsEditor" timestamp="1580319036118">
+      <screen x="-2560" y="-1232" width="2560" height="1417" />
+    </state>
+    <state x="-1185" y="-925" key="SettingsEditor/0.23.1440.877/-4000.-1486.1440.2537/-2560.-1232.2560.1417@-2560.-1232.2560.1417" timestamp="1580319036118" />
+    <state x="397" y="294" key="com.intellij.ide.util.TipDialog" timestamp="1582497953847">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="-1854" y="-794" key="com.intellij.ide.util.TipDialog/0.23.1440.877/-2560.-1232.2560.1417/-4000.-1486.1440.2537@-2560.-1232.2560.1417" timestamp="1581610498353" />
+    <state x="-1854" y="-794" key="com.intellij.ide.util.TipDialog/0.23.1440.877/-4000.-1486.1440.2537/-2560.-1232.2560.1417@-2560.-1232.2560.1417" timestamp="1581106484228" />
+    <state x="397" y="294" key="com.intellij.ide.util.TipDialog/0.23.1440.877/-4000.-1486.1440.2537/-2560.-1232.2560.1417@0.23.1440.877" timestamp="1580241896097" />
+    <state x="397" y="294" key="com.intellij.ide.util.TipDialog/0.23.1440.877@0.23.1440.877" timestamp="1582497953847" />
+  </component>
+</project>
